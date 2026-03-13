@@ -24,9 +24,9 @@ Protocol for use of Zymo Research [Quick-DNA Miniprep plus kit](https://files.zy
     -   Note: If no wide-aperature 1000uL pipette tips are available, gently but quickly tap the bottom of the sample tube with the pipette tip as you draw up the sample. This helps move the sample into the pipette so you get the full 200uL.
 -   [ ] Vortex for 10-15 seconds to mix thoroughly and incubate at room temperature for 3 hours or overnight.
     -   Note: Need to test overnight digestion. Normal processing protocal allows for overnight digestion at 55C.
--   [ ] Add 1 volume (210uL for maximum input volume) of Genomic Binding Buffer to the digested sample. Vortex for 10-15 seconds.
+-   [ ] Add 1 volume (210uL for maximum input volume) of **Genomic Binding Buffer** to the digested sample. Vortex for 10-15 seconds.
 -   [ ] Transfer mixture to a Zymo-Spin IIC-XLR Column in a collection tube. Centrifuge at \>= 12,000xg for 1 minute or until completely cleared. Discard the flow through and collection tube.
--   [ ] Add 400uL **DNA Pre-Wash Buffer** to the spin column in a **new** collection tube.
+-   [ ] Add 400uL **DNA Pre-Wash Buffer** to the spin column in a **new** collection tube. Centrifuge at >= 12,000xg for 1 minute. Empty the collection tube.
 -   [ ] Add 700uL **g-DNA Wash Buffer** to the spin column. Centrifuge at \>= 12,000xg for 1 minute. Empty the collection tube.
 -   [ ] Add 200uL **g-DNA Wash Buffer** to the spin column. Centrifuge at \>=12,000xg for 1 minute. Discard the collection tube and flow through.
 -   [ ] Transfer the spin column to a clean microcentrifuge tube. Add 50uL of DNA Elution Buffer or Nuclease-free water directly to the matrix. Incu bate for 5 minutes at room temperature, then centrifuge at maximum speed for 1 minute to elute the DNA. Teh eluted DNA can be used immediately for molecular based applications or stored at \<= -20C for future use
