@@ -6,10 +6,12 @@ This is a repository for laboratory methods used throughout my PhD in the Avian 
 
 # Recent Experiments
 
+## [LN2 RNA extraction](LN2_RNA_extraction_04232026.qmd)
+## [Turkey DNA Extraction 03092026](Turkey_DNA_extraction_03092026.qmd)
 ## [RNA Extraction Training](RNA_extraction_practice.qmd)
 
 # Standard protocols
 
-[Tri-Reagen/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd)
+[Tri-Reagent/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd)
 
-[DNA Extraction From Whole Blood Samples](Turkey_DNA_extraction.qmd)
+[DNA Extraction From Whole Blood Samples](DNA_extraction_protocol.qmd)
