@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Expermients.qmd
+      - href: Experrients.qmd
         text: Experiments
       - href: Protocols.qmd
         text: Protocols
