@@ -17,7 +17,8 @@ Test 5mm bead for homogenization of blood sample and Tri-Reagent. Add 4C incubat
 |         |               | T3         |               |            |
 | GRCA    | PA108 2I5     | TC1        | PA111 2I9     | VC1        |
 
-## Notes/Observations
+## Protocol Notes/Observations
+Followed standard lab [RNA Extraction](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd) SOP with modifications to homogenization steps.
 
 - TC1 had 300uL of sample input b/c it didn't have a clot and was entirely lysed. It was in some kind of alternative storage buffer (confirmed to be RNeasy Protect from Qiagen after experiment) that caused a white layer to form in the sample after the addition of Tri-Reagent.
 
