@@ -2,10 +2,11 @@
 title: "Niel Bauer Lab Notebook"
 ---
 
-This is a repository for laboratory methods used throughout my PhD in the Avian Disease Ecology Laboratory at University of Rhode Island.
+This is a repository for laboratory methods used throughout my PhD in the Harvey Avian Disease Ecology Laboratory at University of Rhode Island.
 
 # Recent Experiments
 
+## [RNA extraction optimzation with 5mm bead](5mm_bead_RNA_extraction.qmd)
 ## [LN2 RNA extraction](LN2_RNA_extraction_04232026.qmd)
 ## [Turkey DNA Extraction 03092026](Turkey_DNA_extraction_03092026.qmd)
 ## [RNA Extraction Training](RNA_extraction_practice.qmd)
