@@ -6,15 +6,16 @@ This is a repository for laboratory methods used throughout my PhD in the Harvey
 
 # Recent Experiments
 
+##[OSPR RNA extraction 05212026](OSPR_extraction_05212026.qmd)
+
+## [BLVU RNA extraction 05142026](BLVU_RNAext_05142026.qmd)
+
 ## [BLVU RNA extraction 05122026](BLVU_RNAext_05122026.qmd)
 
 ## [RNA extraction optimzation with 5mm bead](5mm_bead_RNA_extraction.qmd)
 
 ## [LN2 RNA extraction](LN2_RNA_extraction_04232026.qmd)
 
-## [Turkey DNA Extraction 03092026](Turkey_DNA_extraction_03092026.qmd)
-
-## [RNA Extraction Training](RNA_extraction_practice.qmd)
 
 # Standard protocols
 
@@ -22,4 +23,4 @@ This is a repository for laboratory methods used throughout my PhD in the Harvey
 
 [Tri-Reagent/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd)
 
-[DNA Extraction From Whole Blood Samples](DNA_extraction_protocol.qmd)
+[DNA Extraction From Whole Blood Samples](https://github.com/JAHarvey/HarveyLabNotebook/blob/7542b649de4f89e19ee5ca77f3d78b217054b419/Niel%20Bauer%20Lab%20Notebook/DNA_extraction_protocol.qmd)
