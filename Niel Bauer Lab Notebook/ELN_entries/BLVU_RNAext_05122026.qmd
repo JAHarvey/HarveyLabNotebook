@@ -1,0 +1,67 @@
+---
+title: "Vulture_RNA_Extraction_05122026"
+---
+
+## Goal: Extract RNA from black vulture samples
+
+## Samples:
+
+LC-EESC-1428
+
+- Split into 1428.1, 1428.2, 1428.3
+
+LC-EESC-2091
+
+- Split into 2091.1, 2091.2, 2091.3
+
+LC-EESC-1426
+
+- Split into 1426.1, 1426.2
+
+## Protocol/Notes
+
+- Followed updated protocol for RNA extraction from clotted avian blood: [RNA Extraction Protocol](https://drive.google.com/file/d/15hi1ZwH2erNrpRtCeD-SuOWRS-TQnEGG/view?usp=sharing)
+
+- 1426 was not shaken after blood collection. Clot was floating on top of DNA/RNA shield w/ no lysis
+
+- 2091 had a large, solid clot, as if the sample wasn't mixed. Maybe wasn't mixed well enough? Clot was at the top of the tube but shield showed that there had been some lysis. Weird clot texture as well, like agarose.
+
+- Took 8-10 minutes to process all samples to 4C incubation step. Biggest delays were form adding extra tubes for 1428 and 2091. I had all of the materials available, I just had to combine tubes+bead+tri-reagent and label them. Hard to gauge up front how many tubes you might need, three might be standard for larger birds.
+
+  | Sample name | Estimated clot volume (uL) | Aqueous phase volume (uL) |
+  |-------------|----------------------------|---------------------------|
+  | 1428.1      | 200                        | 750                       |
+  | 1428.2      | 250                        | 750                       |
+  | 1428.3      | 200                        | 650                       |
+  | 2091.1      | 275                        | 500                       |
+  | 2091.2      | 275                        | 400                       |
+  | 2091.3      | 175                        | 500                       |
+  | 1426.1      | 200                        | 500                       |
+  | 1426.2      | 275                        | 550                       |
+
+  : Estimated clot volumes and aqueous phase volume
+
+- 1428 homogenized **beautifully**. Other two still had sizable chunks of clot, though reduced in size from original input volume.
+
+Dropped 1426.2 column on the ground after spin-down following DNase treatment.
+
+## Concentrations (from 1uL input)
+
+| Sample name | Qubit concentration (ng/uL) |
+|-------------|-----------------------------|
+| 1428.1      | 85.4                        |
+| 1428.2      | 120                         |
+| 1428.3      | 98.2                        |
+| 2091.1      | \<10                        |
+| 2091.2      | \<10                        |
+| 2091.3      | 12.7                        |
+| 1426.1      | 23.4                        |
+| 1426.2      | 42.4                        |
+
+## Conclusions
+
+- Low RNA concentrations from 2091 sample may be due just to poor homogenization. I tried to account for all that I could.
+
+- I suspected initially that the low concentration was due to blood collection being from an hours-dead bird, but that sample is from a freshly euthanized bird.
+
+- 
