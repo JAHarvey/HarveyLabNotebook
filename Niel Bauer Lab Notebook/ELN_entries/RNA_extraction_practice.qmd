@@ -1,0 +1,92 @@
+---
+title: "RNA Extraction Training"
+---
+
+## Summary
+
+Methods used for Practicing RNA extractions on 2/23/2026. Followed the [Tri-Reagent/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd) protocol with some modifications. This protocol has been copied here and has been **modified to include a Proteinase K digestion prior to Phase extraction**
+
+# Samples Isolated
+
+1.  AMRE PA114
+2.  COGR NT060
+3.  EATO NT061
+
+Note: I estimated that all three samples had \>500uL of DNA/RNA shield. Prior to any extraction steps, I briefly pelleted thawed samples at 8,000xg for 1 minute and removed 250uL of DNA/RNA shield from each, lowering the total volume to an estimated 500uL total.
+
+# Tri-Reagent/Direct-zol RNA Isolation Protocol
+
+This protocol has been refined for use of RNA extraction from field collected whole avian blood samples preserved in RNAlater or DNA/RNA Shield buffers which were then stored in a -80 °C freezer.
+
+## Before starting:
+
+-   Clean work area
+-   Gather all supplies
+-   Set centrifuge to 4 °C
+-   Wipe tools, equipment, and fume hood work space with RNase Away or similar product
+-   Grab cold bead/ice bucket
+-   Aliquot required amount of 1-Bromo-3-chloropropane (100 μl per sample and hold on ice)
+-   Set heat block to 55 °C
+
+### Supplies:
+
+-   Bucket of ice or cold beads
+-   Tri Reagent: 1ml per sample (Tri Reagent and Trizol are interchangeable, except that 1-Bromo-3-chloropropane or Chloroform may be used with Tri Reagent while only Chloroform is compatible with Trizol. Chloroform is more toxic and volatile then 1-Bromo-3-chloropropane)
+-   1-Bromo-3-chloropropane as the phase separation agent: 100 ul per sample (Chloroform if used is 200 ul per sample)
+-   RNA free tubes 1.7 or 2.0 ml for Tri-Reagent phase seperation (for final elution and quality control aliquots)
+-   Direct-zol RNA Miniprep Plus contents (Zymo Research, Irvine, CA, USA, Cat# R2070 or R2071 supplied with Tri-Reagent)
+-   3-5 mm steel beads (autoclave and clean with RNase Away) or power homogenizer
+-   RNAase Away or similar product
+-   100% Ethanol
+-   Access to a fume hood, Tri Reagent and 1-Bromo-3-chloropropane should be handeled in a fume hood
+
+### Disposal guidelines:
+
+-   Tri-Reagent, 1-Bromo-3-chloropropane, and Directzol RNA Pre wash buffer are toxic and must not go in the trash or down the drain.
+-   Pour all such waste into appropriate “biohazard container” and follow appropriate local hazardous waste disposal guidelines.
+
+#### Sample Preparation and Phase Separation
+
+1.  For whole blood sample preparation:
+    -   Added 400uL of Protiennase K Digestion Buffer from the Zymo Quick RNA Miniprep plus kit [R1057T](https://www.zymoresearch.com/collections/quick-rna-kits/products/quick-rna-miniprep-plus-kit) and 20uL of Protienase K from the same kit and incubated for 1 hour at 55°C
+    -   Following incubation, tubes were centrifuged 2x for 1 minute at 8,000xg and again at 10,000xg for 2 minutes. No pelleting was observed, I wasn't supposed to spin the tubes.
+    -   The contents of each tube was transfered to a 2mL Eppendorf Sure-lok tube containing 1 metal bead and 920uL Tri-Reagent. Tri-Reagent should be 1:1 with sample volume.
+    -   Tubes were vortexed for 10 minutes to homogenize.
+
+Below Phase separtion steps adapted from Tri Reagent Protocol https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2F9738M_D.pdf
+
+2.  Phase Separation:
+    -   Add 100 μl cold 1-Bromo-3-chloropropane (or 200 μl chloroform), shake vigorously for 20 seconds, then incubate at room temperature 10-15 minutes.
+        -   Note: Briefly forgot the room temperature incubation step and centrifuged for 30 seconds before remembering.
+    -   On the cold centrifuge spin at 4°C for 30-60 minutes at 12,000 x g (or max speed).
+    -   Check phase separation: 50-60% of the volume should be clear aqueous phase. If separation is poor, add an additional 100 μl 1-Bromo-3-chloropropane (or 200 μl chloroform) and repeat shake-incubate-spin step. Centrifugation separates the mixture into 3 phases: a colorless upper aqueous phase containing total RNA, an interphase containing DNA, and the red organic phase containing proteins.
+    -   Carefully collect up to 500 μl of the aqueous phase, making sure not to disturb interphase or lower organic phase, and place in clean tube.
+        -   There was a significant volume of the aqueous phase in each tube, approx. 1mL each. I split this into two tubes for each sample, sub labeling the tubes with a decimal (1.1, 1.2, etc).
+
+Below taken from Zymo Directzol Miniprep Protocol Page \# 7 https://files.zymoresearch.com/protocols/\_r2070t_r2070_r2071_r2072_r2073_direct-zol_rna_miniprep_plus_kit.pdf
+
+#### RNA Purification
+
+All centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds unless specified otherwise.
+
+1.  Add an equal volume ethanol (95%-100) to aqueous phase collected (500uL).
+2.  Transfer the mixture into a Zymor-Spin IIICG Column in a collection tube and centrifuge. Transfer the column into a new collection tube and discard the flow-through.
+    1.  Repeated this step for each tube to run teh whole aqueous phase (e.g. 1.1, 1.2) through one column to consolidate split samples back into one.
+3.  Recommended: DNase I treatment (in-column)
+    1.  Add 400uL RNA Wash Buffer to the column and centrifuge.
+    2.  In an RNase-free tube, add 5uL DNase I (6U/uL), 75uL DNA Digestion Buffer and mix. Add the mix directly to the column matrix.
+    3.  Incubate at room temperature (20-30°C) for 15 minutes. Proceed to step 4.
+4.  Add 400uL Direct-zol RNA PreWash to the column and centrifuge. Discard the flow-through and repeat this step.
+    1.  Repeated a third wash with 700uL of RNA PreWash because I misread the protocol.
+5.  Add 700uL RNA Wash Buffer to the column and centrifuge for 2 minutes to ensure complete removal of the wash buffer. Transfer the column carefully into an RNase-free tube.
+6.  To elute RNA, add 100 or 50uL (for highly concentrated RNA) of DNase/RNase-free Water directly to the column matrix and centrifuge.
+7.  Aliquot 2.5uL of RNA for quantification into strip tubes. Use 1uL for Qubit, 1uL for Bioanalyzer. The remaining 0.5uL accounts for pipetting error. Store RNA at -80°C.
+
+## RNA Quantification by Qubit
+
+| Sample | Concentration (ng/uL) |
+|--------|-----------------------|
+| PA141  | Out of Range (\<10)   |
+| NT060  | 18.7                  |
+| NT061  | Out of Range (\<10)   |
+|        |                       |

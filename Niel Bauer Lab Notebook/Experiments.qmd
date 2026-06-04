@@ -4,6 +4,14 @@ title: "Experiments"
 
 All laboratory experiments performed by Niel Bauer. The most recent experiments are listed first.
 
+[OSPR RNA extraction 05212026](ELN_entries/OSPR_extraction_05212026.qmd)
+
+[BLVU RNA Extraction 05142026](ELN_entries/BLVU_RNAext_05142026.qmd)
+
+[BLVU RNA Extraction 05122026](ELN_entries/BLVU_RNAext_05122026.qmd)
+
+[RNA Extraction w/ 5mm bead](ELN_entries/5mm_bead_RNA_extraction.qmd)
+
 [LN2 RNA extraction 04343036](https://github.com/JAHarvey/HarveyLabNotebook/blob/fb40f45343b194b77632679244c2c7824038e884/Niel%20Bauer%20Lab%20Notebook/LN2_RNA_extraction_04232026.qmd)
 
 [Turkey DNA Extraction 03092026](https://github.com/JAHarvey/HarveyLabNotebook/blob/fb40f45343b194b77632679244c2c7824038e884/Niel%20Bauer%20Lab%20Notebook/Turkey_DNA_extraction_03092026.qmd)
