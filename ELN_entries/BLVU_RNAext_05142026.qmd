@@ -1,0 +1,65 @@
+---
+title: "BLVU RNA extraction 051426"
+---
+
+## Goal: Exract RNA from BLVU blood samples
+
+## Samples:
+
+| Blood sample | Tube name | Clot volume (uL) | Aqueous phase volume (uL) |
+|--------------|-----------|------------------|---------------------------|
+| LC-EESC-1421 | 1421.1    | 300              | 850                       |
+|              | 1421.2    | 300              | 700                       |
+| LC-EESC-2086 | 2086.1    | 350              | 600                       |
+|              | 2086.2    | 350              | 600                       |
+| LC-EESC-1425 | 1425.1    | 250              | 850                       |
+|              | 1425.2    | 250              | 850                       |
+| LC-EESC-2094 | 2094.1    | 300              | 475                       |
+|              | 2094.2    | 200              | 475                       |
+
+- Aqueous phase for 2086 and 2094 tube had a yellow tinge.
+
+## Protocol/Notes
+
+[RNA extraction from clotted blood](https://drive.google.com/file/d/15hi1ZwH2erNrpRtCeD-SuOWRS-TQnEGG/view?usp=sharing)
+
+- 2086 and 2094 had brittle clots that tore apart in the tube while using forceps to extract them.
+
+  - Abbey recommended doing an additional minute of homogenization for these samples.
+
+  - Also cut these clots up into smaller pieces with the scissors prior to homogenization.
+
+- Homogenized 2086 and 2094 for an additional 2 times, 30 seconds each at 20Hz. Still had a large-ish hard clump visible in some, though also many small fragments.
+
+- Pellets for 2086 and 2094 were less uniform after phase separation. 2094 more-so than 2086, though there was still the whitish protein layer separating the clot pellet from the aqueous phase. Was able to get aqueous phase off with no trouble.
+
+## Qubit Concentrations (2uL input)
+
+| Date      | Tube   | Concentration (ng/uL) |
+|-----------|--------|-----------------------|
+| 5/14/2026 | 1421.1 | \<5                   |
+|           | 1421.2 | \<5                   |
+|           | 2086.1 | \<5                   |
+|           | 2086.2 | \<5                   |
+|           | 1425.1 | \<5                   |
+|           | 1425.2 | \<5                   |
+|           | 2094.1 | \<5                   |
+|           | 2094.2 | \<5                   |
+| 5/15/2026 | 1421.1 | \<5                   |
+|           | 1421.2 | 7.74                  |
+|           | 2086.1 | \<5                   |
+|           | 2086.2 | \<5                   |
+|           | 1425.1 | 5.23                  |
+|           | 1425.2 | \<5                   |
+|           | 2094.1 | \<5                   |
+|           | 2094.2 | \<5                   |
+
+- Unsure why concentrations are so low after extraction across all samples. Some kind of contamination?
+
+## 05/15/2026
+
+- After comparing with Abbey, who did extractions the same day, it is possible that DNase solution is contaminated? I suspended fresh DNase with the remaining nuclease-free water from the free zymo kit we have been using until earlier this week and used that along with new DNA digestion buffer from the new kit we have been using to do the DNA digestion step. Abbey did not perform this step yesterday, and had high yields across all samples.
+
+---
+title: cool
+---

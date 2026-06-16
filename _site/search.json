@@ -1,0 +1,625 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "",
+    "text": "This is a repository for laboratory methods used throughout my PhD in the Harvey Avian Disease Ecology Laboratory at University of Rhode Island."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Methods used for Project 1"
+  },
+  {
+    "objectID": "index.html#project-1",
+    "href": "index.html#project-1",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "Project 1",
+    "section": "",
+    "text": "Methods used for Project 1"
+  },
+  {
+    "objectID": "RNA_extraction_practice.html",
+    "href": "RNA_extraction_practice.html",
+    "title": "RNA Extraction Training",
+    "section": "",
+    "text": "Methods used for Practicing RNA extractions on 2/23/2026. Followed the Tri-Reagent/Direct-zol RNA Isolation Protocol protocol with some modifications. This protocol has been copied here and has been modified to include a Proteinase K digestion prior to Phase extraction"
+  },
+  {
+    "objectID": "RNA_extraction_practice.html#summary",
+    "href": "RNA_extraction_practice.html#summary",
+    "title": "RNA Extraction Training",
+    "section": "",
+    "text": "Methods used for Practicing RNA extractions on 2/23/2026. Followed the Tri-Reagent/Direct-zol RNA Isolation Protocol protocol with some modifications. This protocol has been copied here and has been modified to include a Proteinase K digestion prior to Phase extraction"
+  },
+  {
+    "objectID": "index.html#rna-extraction-training",
+    "href": "index.html#rna-extraction-training",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "RNA Extraction Training",
+    "text": "RNA Extraction Training"
+  },
+  {
+    "objectID": "RNA_extraction_practice.html#before-starting",
+    "href": "RNA_extraction_practice.html#before-starting",
+    "title": "RNA Extraction Training",
+    "section": "Before starting:",
+    "text": "Before starting:\n\nClean work area\nGather all supplies\nSet centrifuge to 4 °C\nWipe tools, equipment, and fume hood work space with RNase Away or similar product\nGrab cold bead/ice bucket\nAliquot required amount of 1-Bromo-3-chloropropane (100 μl per sample and hold on ice)\nSet heat block to 55 °C\n\n\nSupplies:\n\nBucket of ice or cold beads\nTri Reagent: 1ml per sample (Tri Reagent and Trizol are interchangeable, except that 1-Bromo-3-chloropropane or Chloroform may be used with Tri Reagent while only Chloroform is compatible with Trizol. Chloroform is more toxic and volatile then 1-Bromo-3-chloropropane)\n1-Bromo-3-chloropropane as the phase separation agent: 100 ul per sample (Chloroform if used is 200 ul per sample)\nRNA free tubes 1.7 or 2.0 ml for Tri-Reagent phase seperation (for final elution and quality control aliquots)\nDirect-zol RNA Miniprep Plus contents (Zymo Research, Irvine, CA, USA, Cat# R2070 or R2071 supplied with Tri-Reagent)\n3-5 mm steel beads (autoclave and clean with RNase Away) or power homogenizer\nRNAase Away or similar product\n100% Ethanol\nAccess to a fume hood, Tri Reagent and 1-Bromo-3-chloropropane should be handeled in a fume hood\n\n\n\nDisposal guidelines:\n\nTri-Reagent, 1-Bromo-3-chloropropane, and Directzol RNA Pre wash buffer are toxic and must not go in the trash or down the drain.\nPour all such waste into appropriate “biohazard container” and follow appropriate local hazardous waste disposal guidelines.\n\n\nSample Preparation and Phase Separation\n\nFor whole blood sample preparation:\n\nAdded 400uL of Protiennase K Digestion Buffer from the Zymo Quick RNA Miniprep plus kit R1057T and 20uL of Protienase K from the same kit and incubated for 1 hour at 55°C\nFollowing incubation, tubes were centrifuged 2x for 1 minute at 8,000xg and again at 10,000xg for 2 minutes. No pelleting was observed, I wasn’t supposed to spin the tubes.\nThe contents of each tube was transfered to a 2mL Eppendorf Sure-lok tube containing 1 metal bead and 920uL Tri-Reagent. Tri-Reagent should be 1:1 with sample volume.\nTubes were vortexed for 10 minutes to homogenize.\n\n\nBelow Phase separtion steps adapted from Tri Reagent Protocol https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2F9738M_D.pdf\n\nPhase Separation:\n\nAdd 100 μl cold 1-Bromo-3-chloropropane (or 200 μl chloroform), shake vigorously for 20 seconds, then incubate at room temperature 10-15 minutes.\n\nNote: Briefly forgot the room temperature incubation step and centrifuged for 30 seconds before remembering.\n\nOn the cold centrifuge spin at 4°C for 30-60 minutes at 12,000 x g (or max speed).\nCheck phase separation: 50-60% of the volume should be clear aqueous phase. If separation is poor, add an additional 100 μl 1-Bromo-3-chloropropane (or 200 μl chloroform) and repeat shake-incubate-spin step. Centrifugation separates the mixture into 3 phases: a colorless upper aqueous phase containing total RNA, an interphase containing DNA, and the red organic phase containing proteins.\nCarefully collect up to 500 μl of the aqueous phase, making sure not to disturb interphase or lower organic phase, and place in clean tube.\n\nThere was a significant volume of the aqueous phase in each tube, approx. 1mL each. I split this into two tubes for each sample, sub labeling the tubes with a decimal (1.1, 1.2, etc).\n\n\n\nBelow taken from Zymo Directzol Miniprep Protocol Page # 7 https://files.zymoresearch.com/protocols/_r2070t_r2070_r2071_r2072_r2073_direct-zol_rna_miniprep_plus_kit.pdf\n\n\nRNA Purification\nAll centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds unless specified otherwise.\n\nAdd an equal volume ethanol (95%-100) to aqueous phase collected (500uL).\nTransfer the mixture into a Zymor-Spin IIICG Column in a collection tube and centrifuge. Transfer the column into a new collection tube and discard the flow-through.\n\nRepeated this step for each tube to run teh whole aqueous phase (e.g. 1.1, 1.2) through one column to consolidate split samples back into one.\n\nRecommended: DNase I treatment (in-column)\n\nAdd 400uL RNA Wash Buffer to the column and centrifuge.\nIn an RNase-free tube, add 5uL DNase I (6U/uL), 75uL DNA Digestion Buffer and mix. Add the mix directly to the column matrix.\nIncubate at room temperature (20-30°C) for 15 minutes. Proceed to step 4.\n\nAdd 400uL Direct-zol RNA PreWash to the column and centrifuge. Discard the flow-through and repeat this step.\n\nRepeated a third wash with 700uL of RNA PreWash because I misread the protocol.\n\nAdd 700uL RNA Wash Buffer to the column and centrifuge for 2 minutes to ensure complete removal of the wash buffer. Transfer the column carefully into an RNase-free tube.\nTo elute RNA, add 100 or 50uL (for highly concentrated RNA) of DNase/RNase-free Water directly to the column matrix and centrifuge.\nAliquot 2.5uL of RNA for quantification into strip tubes. Use 1uL for Qubit, 1uL for Bioanalyzer. The remaining 0.5uL accounts for pipetting error. Store RNA at -80°C."
+  },
+  {
+    "objectID": "RNA_extraction_practice.html#rna-quantification-by-qubit",
+    "href": "RNA_extraction_practice.html#rna-quantification-by-qubit",
+    "title": "RNA Extraction Training",
+    "section": "RNA Quantification by Qubit",
+    "text": "RNA Quantification by Qubit\n\n\n\nSample\nConcentration (ng/uL)\n\n\n\n\nPA141\nOut of Range (&lt;10)\n\n\nNT060\n18.7\n\n\nNT061\nOut of Range (&lt;10)"
+  },
+  {
+    "objectID": "Turkey DNA extraction.html",
+    "href": "Turkey DNA extraction.html",
+    "title": "Turkey DNA extraction",
+    "section": "",
+    "text": "Protocol for use of Zymo Research Quick-DNA Miniprep plus kit for extracting DNA from Nucleated Turkey Blood samples."
+  },
+  {
+    "objectID": "Turkey DNA extraction.html#materials",
+    "href": "Turkey DNA extraction.html#materials",
+    "title": "Turkey DNA extraction",
+    "section": "Materials",
+    "text": "Materials\n\nZymo Research Quick-DNA Miniprep plus kit\nWhole Blood sample preserved in RNA/DNA shield\n1000uL pipette w/ tips\n200uL pipette w/ tips\nEppendorf tubes"
+  },
+  {
+    "objectID": "Turkey DNA extraction.html#for-lysed-samples-in-dna-rna-shield",
+    "href": "Turkey DNA extraction.html#for-lysed-samples-in-dna-rna-shield",
+    "title": "Turkey DNA extraction",
+    "section": "For Lysed Samples in DNA RNA shield",
+    "text": "For Lysed Samples in DNA RNA shield\n\nThaw sample entirely and vortex briefly to make sure sample is homogenous.\nTake 400uL of sample and transfer to a DNase-free 1.7mL tube. Add 20uL of Proteinase K to this sample.\nVortex for 10-15 seconds to mix thoroughly and incubate at room temperature for 20 minutes or overnight.\n\nNote: Need to test overnight digestion. Normal processing protocal allows for overnight digestion at 55C.\n\nAdd 1 volume (420uL for maximum input volume) of Genomic Binding Buffer to the digested sample. Vortex for 10-15 seconds.\nTransfer mixture to a Zymo-Spin IIC-XLR Column in a collection tube. Centrifuge at &gt;= 12,000xg for 1 minute or until completely cleared. Discard the flow through and collection tube.\nAdd 400uL DNA Pre-Wash Buffer to the spin column in a new collection tube.\nAdd 700uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;= 12,000xg for 1 minute. Empty the collection tube.\nAdd 200uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\nTransfer the spin column to a clean microcentrifuge tube. Add 50uL of DNA Elution Buffer or Nuclease-free water directly to the matrix. Incu bate for 5 minutes at room temperature, then centrifuge at maximum speed for 1 minute to elute the DNA. Teh eluted DNA can be used immediately for molecular based applications or stored at &lt;= -20C for future use"
+  },
+  {
+    "objectID": "Turkey DNA extraction.html#for-nucleated-blood-pellets",
+    "href": "Turkey DNA extraction.html#for-nucleated-blood-pellets",
+    "title": "Turkey DNA extraction",
+    "section": "For Nucleated Blood Pellets",
+    "text": "For Nucleated Blood Pellets\n\nThaw sample completely and centriguge at 5,000xg for 30 seconds to pellet blood cells.\nWhile smaple is thawing, prepare the following in a separate 1.7mL microcentrifuge tube:\n\n\n\nBioFluid & Cell Buffer (Red)\n200uL\n\n\nProteinaseK\n20uL\n\n\nDNA Elution Buffer\n200uL\n\n\n\nPlacing the tip of a pipette at the bottom of the sample tube, slowly draw up 10uL of blood from the pellet at the bottom of the tube. Do you best not to draw up any DNA/RNA Shield. Slowly dispense the blood into the tube you prepared previously.\nMix tube thoroughly then incubate at 55C for 20 minutes or overnight.\nAdd 1 volume of Genomic Binding Buffer to the tube and mix thoroughly by pipetting up and down and by vortexing. Ensure the sample is homogenous before continuing.\nTransfer the mixture to a Zymo-Spin IIC-XLR Column in a Collection tube. Centrifuge at &gt;=12,000xg for 1 minute or until the whole sample has passed through. Discard the Collection Tube with the flow through.\nAdd 400uL DNA Pre-Wash to the spin column in a new collection tube. Centriuge at &gt;=12,000xg for 1 minute. Empty the collection tube.\nAdd 700uL g-DNA Wash Buffer to the sping column. Centrifuge at &gt;=12,000xg for 1 minute. Empty the Collection tube.\nAdd 200uL g-DNA Wash Buffer to the spin column directly on the matrix. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\nTransfer the spin column to a fresh DNase-free 1.7uL microfuge tube. Add 50uL DNA Elution Buffer or Nuclease-Free water directly on the matrix. Incubate for 5 minutes at room temperature, the centrifuge at top speed for 1 minute to elute the DNA. The eluted DNA can be used immediately for molecular based applications or stored at &lt;=-20C for future use."
+  },
+  {
+    "objectID": "Turkey_DNA_extraction.html",
+    "href": "Turkey_DNA_extraction.html",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "",
+    "text": "Protocol for use of Zymo Research Quick-DNA Miniprep plus kit for extracting DNA from Nucleated Turkey Blood samples."
+  },
+  {
+    "objectID": "Turkey_DNA_extraction.html#materials",
+    "href": "Turkey_DNA_extraction.html#materials",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "Materials",
+    "text": "Materials\n\nZymo Research Quick-DNA Miniprep plus kit\nWhole Blood sample preserved in RNA/DNA shield\n1000uL pipette w/ tips\n200uL pipette w/ tips\n20uL pipette w/ tips\nMicrofuge tube rack\nEppendorf tubes"
+  },
+  {
+    "objectID": "Turkey_DNA_extraction.html#for-lysed-samples-in-dna-rna-shield",
+    "href": "Turkey_DNA_extraction.html#for-lysed-samples-in-dna-rna-shield",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "For Lysed Samples in DNA RNA shield",
+    "text": "For Lysed Samples in DNA RNA shield\n\nThaw sample entirely and vortex briefly to make sure sample is homogenous.\nTake 200uL of sample and transfer to a DNase-free 1.7mL tube. Add 10uL of Proteinase K to this sample.\n\nNote: If no wide-aperature 1000uL pipette tips are available, gently but quickly tap the bottom of the sample tube with the pipette tip as you draw up the sample. This helps move the sample into the pipette so you get the full 200uL.\n\nVortex for 10-15 seconds to mix thoroughly and incubate at room temperature for 3 hours or overnight.\n\nNote: Need to test overnight digestion. Normal processing protocal allows for overnight digestion at 55C.\n\nAdd 1 volume (210uL for maximum input volume) of Genomic Binding Buffer to the digested sample. Vortex for 10-15 seconds.\nTransfer mixture to a Zymo-Spin IIC-XLR Column in a collection tube. Centrifuge at &gt;= 12,000xg for 1 minute or until completely cleared. Discard the flow through and collection tube.\nAdd 400uL DNA Pre-Wash Buffer to the spin column in a new collection tube.\nAdd 700uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;= 12,000xg for 1 minute. Empty the collection tube.\nAdd 200uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\nTransfer the spin column to a clean microcentrifuge tube. Add 50uL of DNA Elution Buffer or Nuclease-free water directly to the matrix. Incu bate for 5 minutes at room temperature, then centrifuge at maximum speed for 1 minute to elute the DNA. Teh eluted DNA can be used immediately for molecular based applications or stored at &lt;= -20C for future use"
+  },
+  {
+    "objectID": "Turkey_DNA_extraction.html#for-nucleated-blood-pellets",
+    "href": "Turkey_DNA_extraction.html#for-nucleated-blood-pellets",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "For Nucleated Blood Pellets",
+    "text": "For Nucleated Blood Pellets\n\nThaw sample completely and centriguge at 5,000xg for 30 seconds to pellet blood cells.\nWhile smaple is thawing, prepare the following in a separate 1.7mL microcentrifuge tube:\n\n\n\nBioFluid & Cell Buffer (Red)\n200uL\n\n\nProteinaseK\n20uL\n\n\nDNA Elution Buffer\n200uL\n\n\n\nPlacing the tip of a pipette at the bottom of the sample tube, slowly draw up 10uL of blood from the pellet at the bottom of the tube. Do you best not to draw up any DNA/RNA Shield. Slowly dispense the blood into the tube you prepared previously.\nMix tube thoroughly then incubate at 55C for 20 minutes or overnight.\nAdd 1 volume of Genomic Binding Buffer to the tube and mix thoroughly by pipetting up and down and by vortexing. Ensure the sample is homogenous before continuing.\nTransfer the mixture to a Zymo-Spin IIC-XLR Column in a Collection tube. Centrifuge at &gt;=12,000xg for 1 minute or until the whole sample has passed through. Discard the Collection Tube with the flow through.\nAdd 400uL DNA Pre-Wash to the spin column in a new collection tube. Centriuge at &gt;=12,000xg for 1 minute. Empty the collection tube.\nAdd 700uL g-DNA Wash Buffer to the sping column. Centrifuge at &gt;=12,000xg for 1 minute. Empty the Collection tube.\nAdd 200uL g-DNA Wash Buffer to the spin column directly on the matrix. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\nTransfer the spin column to a fresh DNase-free 1.7uL microfuge tube. Add 50uL DNA Elution Buffer or Nuclease-Free water directly on the matrix. Incubate for 5 minutes at room temperature, the centrifuge at top speed for 1 minute to elute the DNA. The eluted DNA can be used immediately for molecular based applications or stored at &lt;=-20C for future use."
+  },
+  {
+    "objectID": "Turkey_DNA_extraction.html#protocol-notes",
+    "href": "Turkey_DNA_extraction.html#protocol-notes",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "Protocol Notes",
+    "text": "Protocol Notes\n\nIf using a sample input of &lt;50uL for the lysed sample protocol, increase volume to 50uL using DNA Elution Buffer or an isotonic buffer like PBS before continuing."
+  },
+  {
+    "objectID": "Protocols.html",
+    "href": "Protocols.html",
+    "title": "Protocols",
+    "section": "",
+    "text": "All standard laboratory protocols used in this lab Notebook and the Avian Disease Ecology Lab at University of Rhode Island. All links lead to file in github repository\n\nTri-Reagent/Direct-zol RNA Isolation Protocol\ngDNA Extraction Protocol"
+  },
+  {
+    "objectID": "Protocols.html#summary",
+    "href": "Protocols.html#summary",
+    "title": "Protocols",
+    "section": "",
+    "text": "All standard laboratory protocols used in this lab Notebook and the Avian Disease Ecology Lab at University of Rhode Island. All links lead to file in github repository\n\nTri-Reagent/Direct-zol RNA Isolation Protocol\ngDNA Extraction Protocol"
+  },
+  {
+    "objectID": "DNA_extraction.html",
+    "href": "DNA_extraction.html",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "",
+    "text": "Protocol for use of Zymo Research Quick-DNA Miniprep plus kit for extracting DNA from Nucleated Turkey Blood samples."
+  },
+  {
+    "objectID": "DNA_extraction.html#materials",
+    "href": "DNA_extraction.html#materials",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "Materials",
+    "text": "Materials\n\nZymo Research Quick-DNA Miniprep plus kit\nWhole Blood sample preserved in RNA/DNA shield\n1000uL pipette w/ tips\n200uL pipette w/ tips\n20uL pipette w/ tips\nMicrofuge tube rack\nEppendorf tubes"
+  },
+  {
+    "objectID": "DNA_extraction.html#for-lysed-samples-in-dna-rna-shield",
+    "href": "DNA_extraction.html#for-lysed-samples-in-dna-rna-shield",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "For Lysed Samples in DNA RNA shield",
+    "text": "For Lysed Samples in DNA RNA shield\n\nThaw sample entirely and vortex briefly to make sure sample is homogenous.\nTake 200uL of sample and transfer to a DNase-free 1.7mL tube. Add 10uL of Proteinase K to this sample.\n\nNote: If no wide-aperature 1000uL pipette tips are available, gently but quickly tap the bottom of the sample tube with the pipette tip as you draw up the sample. This helps move the sample into the pipette so you get the full 200uL.\n\nVortex for 10-15 seconds to mix thoroughly and incubate at room temperature for 3 hours or overnight.\n\nNote: Need to test overnight digestion. Normal processing protocal allows for overnight digestion at 55C.\n\nAdd 1 volume (210uL for maximum input volume) of Genomic Binding Buffer to the digested sample. Vortex for 10-15 seconds.\nTransfer mixture to a Zymo-Spin IIC-XLR Column in a collection tube. Centrifuge at &gt;= 12,000xg for 1 minute or until completely cleared. Discard the flow through and collection tube.\nAdd 400uL DNA Pre-Wash Buffer to the spin column in a new collection tube.\nAdd 700uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;= 12,000xg for 1 minute. Empty the collection tube.\nAdd 200uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\nTransfer the spin column to a clean microcentrifuge tube. Add 50uL of DNA Elution Buffer or Nuclease-free water directly to the matrix. Incu bate for 5 minutes at room temperature, then centrifuge at maximum speed for 1 minute to elute the DNA. Teh eluted DNA can be used immediately for molecular based applications or stored at &lt;= -20C for future use"
+  },
+  {
+    "objectID": "DNA_extraction.html#for-nucleated-blood-pellets",
+    "href": "DNA_extraction.html#for-nucleated-blood-pellets",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "For Nucleated Blood Pellets",
+    "text": "For Nucleated Blood Pellets\n\nThaw sample completely and centriguge at 5,000xg for 30 seconds to pellet blood cells.\nWhile smaple is thawing, prepare the following in a separate 1.7mL microcentrifuge tube:\n\n\n\nBioFluid & Cell Buffer (Red)\n200uL\n\n\nProteinaseK\n20uL\n\n\nDNA Elution Buffer\n200uL\n\n\n\nPlacing the tip of a pipette at the bottom of the sample tube, slowly draw up 10uL of blood from the pellet at the bottom of the tube. Do you best not to draw up any DNA/RNA Shield. Slowly dispense the blood into the tube you prepared previously.\nMix tube thoroughly then incubate at 55C for 20 minutes or overnight.\nAdd 1 volume of Genomic Binding Buffer to the tube and mix thoroughly by pipetting up and down and by vortexing. Ensure the sample is homogenous before continuing.\nTransfer the mixture to a Zymo-Spin IIC-XLR Column in a Collection tube. Centrifuge at &gt;=12,000xg for 1 minute or until the whole sample has passed through. Discard the Collection Tube with the flow through.\nAdd 400uL DNA Pre-Wash to the spin column in a new collection tube. Centriuge at &gt;=12,000xg for 1 minute. Empty the collection tube.\nAdd 700uL g-DNA Wash Buffer to the sping column. Centrifuge at &gt;=12,000xg for 1 minute. Empty the Collection tube.\nAdd 200uL g-DNA Wash Buffer to the spin column directly on the matrix. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\nTransfer the spin column to a fresh DNase-free 1.7uL microfuge tube. Add 50uL DNA Elution Buffer or Nuclease-Free water directly on the matrix. Incubate for 5 minutes at room temperature, the centrifuge at top speed for 1 minute to elute the DNA. The eluted DNA can be used immediately for molecular based applications or stored at &lt;=-20C for future use."
+  },
+  {
+    "objectID": "DNA_extraction.html#protocol-notes",
+    "href": "DNA_extraction.html#protocol-notes",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "Protocol Notes",
+    "text": "Protocol Notes\n\nIf using a sample input of &lt;50uL for the lysed sample protocol, increase volume to 50uL using DNA Elution Buffer or an isotonic buffer like PBS before continuing."
+  },
+  {
+    "objectID": "index.html#tukey-dna-extraction-03092026",
+    "href": "index.html#tukey-dna-extraction-03092026",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "Tukey DNA Extraction 03092026",
+    "text": "Tukey DNA Extraction 03092026"
+  },
+  {
+    "objectID": "Turkey_DNA_extraction_03092026.html",
+    "href": "Turkey_DNA_extraction_03092026.html",
+    "title": "Turkey DNA extraction",
+    "section": "",
+    "text": "Test 3 hour and overnight ProteinaseK digestion on gDNA extraction from RI turkey samples."
+  },
+  {
+    "objectID": "Turkey_DNA_extraction_03092026.html#goal",
+    "href": "Turkey_DNA_extraction_03092026.html#goal",
+    "title": "Turkey DNA extraction",
+    "section": "",
+    "text": "Test 3 hour and overnight ProteinaseK digestion on gDNA extraction from RI turkey samples."
+  },
+  {
+    "objectID": "Turkey_DNA_extraction_03092026.html#section",
+    "href": "Turkey_DNA_extraction_03092026.html#section",
+    "title": "Turkey DNA extraction",
+    "section": "03-09-2026",
+    "text": "03-09-2026\nSamples used:\n\n\n\n3 Hour digestion\nOvernight digestion\n\n\n\n\nRDM007\nRDM010\n\n\nRDM008\nRDM011\n\n\nRDM009\nRDM012\n\n\n\nFollowed gDNA extraction protocol with any changes or observations noted below.\n\nSince no wide-aperature 1000uL pipette tips were available, I found that tapping the tip against the bottom of the tube while drawing up sample helped me gather the full 200uL despite the viscosity of the sample.\nCentrifuged samples 7 and 9 a second time on step 5 as some sample was still retained in the column after the first spin.\nCentrifuged all 3 hour samples a second time after adding the Pre-Wash buffer as some was still retained in the column."
+  },
+  {
+    "objectID": "Turkey_DNA_extraction_03092026.html#section-1",
+    "href": "Turkey_DNA_extraction_03092026.html#section-1",
+    "title": "Turkey DNA extraction",
+    "section": "03-10-2026",
+    "text": "03-10-2026\n\nOvernight incubation was a total of 14 hours.\nPlaced a tube rack on top of the tubes during the overnight incubation to ensure that the caps did not pop open from pressure build up.\nCentrifuged all overnight samples a second time on step 5 as some sample was retained in the column."
+  },
+  {
+    "objectID": "DNA_extraction_protocol.html",
+    "href": "DNA_extraction_protocol.html",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "",
+    "text": "Protocol for use of Zymo Research Quick-DNA Miniprep plus kit for extracting DNA from Nucleated Turkey Blood samples."
+  },
+  {
+    "objectID": "DNA_extraction_protocol.html#materials",
+    "href": "DNA_extraction_protocol.html#materials",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "Materials",
+    "text": "Materials\n\nZymo Research Quick-DNA Miniprep plus kit\nWhole Blood sample preserved in RNA/DNA shield\n1000uL pipette w/ tips\n200uL pipette w/ tips\n20uL pipette w/ tips\nMicrofuge tube rack\nEppendorf tubes"
+  },
+  {
+    "objectID": "DNA_extraction_protocol.html#for-lysed-samples-in-dna-rna-shield",
+    "href": "DNA_extraction_protocol.html#for-lysed-samples-in-dna-rna-shield",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "For Lysed Samples in DNA RNA shield",
+    "text": "For Lysed Samples in DNA RNA shield\n\n1. Thaw sample entirely and vortex briefly to make sure sample is homogeneous.\n2. Take 200uL of sample and transfer to a DNase-free 1.7mL tube. Add 10uL of Proteinase K to this sample. - Note: If no wide-aperture 1000uL pipette tips are available, gently but quickly tap the bottom of the sample tube with the pipette tip as you draw up the sample. This helps move the sample into the pipette so you get the full 200uL.\n3. Vortex for 10-15 seconds to mix thoroughly and incubate at room temperature for 3 hours or overnight. - Note: Need to test overnight digestion. Normal processing protocol allows for overnight digestion at 55C.\n4. Add 1 volume (210uL for maximum input volume) of Genomic Binding Buffer to the digested sample. Vortex for 10-15 seconds.\n5. Transfer mixture to a Zymo-Spin IIC-XLR Column in a collection tube. Centrifuge at &gt;= 12,000xg for 1 minute or until completely cleared. Discard the flow through and collection tube.\n6. Add 400uL DNA Pre-Wash Buffer to the spin column in a new collection tube. Centrifuge at &gt;=12,000xg for 1 minute. Empty the collection tube.\n7. Add 700uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;= 12,000xg for 1 minute. Empty the collection tube.\n8. Add 200uL g-DNA Wash Buffer to the spin column. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\n9. Transfer the spin column to a clean microcentrifuge tube. Add 50uL of DNA Elution Buffer or Nuclease-free water directly to the matrix. Incubate for 5 minutes at room temperature, then centrifuge at maximum speed for 1 minute to elute the DNA. The eluted DNA can be used immediately for molecular based applications or stored at &lt;= -20C for future use"
+  },
+  {
+    "objectID": "DNA_extraction_protocol.html#for-nucleated-blood-pellets",
+    "href": "DNA_extraction_protocol.html#for-nucleated-blood-pellets",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "For Nucleated Blood Pellets",
+    "text": "For Nucleated Blood Pellets\n\n1. Thaw sample completely and centrifuge at 5,000xg for 30 seconds to pellet blood cells.\n2. While sample is thawing, prepare the following in a separate 1.7mL microcentrifuge tube:\n\n\n\nBioFluid & Cell Buffer (Red)\n200uL\n\n\nProteinaseK\n20uL\n\n\nDNA Elution Buffer\n200uL\n\n\n\n3. Placing the tip of a pipette at the bottom of the sample tube, slowly draw up 10uL of blood from the pellet at the bottom of the tube. Do you best not to draw up any DNA/RNA Shield. Slowly dispense the blood into the tube you prepared previously.\n4. Mix tube thoroughly then incubate at 55C for 3 hours minutes or overnight.\n5. Add 1 volume of Genomic Binding Buffer to the tube and mix thoroughly by pipetting up and down and by vortexing. Ensure the sample is homogenous before continuing.\n6. Transfer the mixture to a Zymo-Spin IIC-XLR Column in a Collection tube. Centrifuge at &gt;=12,000xg for 1 minute or until the whole sample has passed through. Discard the Collection Tube with the flow through.\n7. Add 400uL DNA Pre-Wash to the spin column in a new collection tube. Centriuge at &gt;=12,000xg for 1 minute. Empty the collection tube.\n8. Add 700uL g-DNA Wash Buffer to the sping column. Centrifuge at &gt;=12,000xg for 1 minute. Empty the Collection tube.\n9. Add 200uL g-DNA Wash Buffer to the spin column directly on the matrix. Centrifuge at &gt;=12,000xg for 1 minute. Discard the collection tube and flow through.\n10. Transfer the spin column to a fresh DNase-free 1.7uL microfuge tube. Add 50uL DNA Elution Buffer or Nuclease-Free water directly on the matrix. Incubate for 5 minutes at room temperature, the centrifuge at top speed for 1 minute to elute the DNA. The eluted DNA can be used immediately for molecular based applications or stored at &lt;=-20C for future use."
+  },
+  {
+    "objectID": "DNA_extraction_protocol.html#protocol-notes",
+    "href": "DNA_extraction_protocol.html#protocol-notes",
+    "title": "DNA extraction for samples in DNA/RNA Shield",
+    "section": "Protocol Notes",
+    "text": "Protocol Notes\n\nIf using a sample input of &lt;50uL for the lysed sample protocol, increase volume to 50uL using DNA Elution Buffer or an isotonic buffer like PBS before continuing."
+  },
+  {
+    "objectID": "LN2_RNA_extraction_04232026.html",
+    "href": "LN2_RNA_extraction_04232026.html",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "",
+    "text": "Test the use of liquid nitrogen to flash-freeze samples with large amount of blood and then cut with a razor blade. This was done to possibly help with homogenization and thus create a higher yield"
+  },
+  {
+    "objectID": "LN2_RNA_extraction_04232026.html#goal",
+    "href": "LN2_RNA_extraction_04232026.html#goal",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "",
+    "text": "Test the use of liquid nitrogen to flash-freeze samples with large amount of blood and then cut with a razor blade. This was done to possibly help with homogenization and thus create a higher yield"
+  },
+  {
+    "objectID": "LN2_RNA_extraction_04232026.html#samples-used",
+    "href": "LN2_RNA_extraction_04232026.html#samples-used",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "Samples used:",
+    "text": "Samples used:\n\nLC-EESC-1986e - Fish crow blood sample in DNA/RNA Shield (I think?).\n\nNote: Did not use enough LN2 to freeze sample. Used razor to cut up clot and split across 2 tubes\n\nRCKI 2A1 - LN2 cut control\nRCKI 2A3 - Normal RNA extraciton protocol control. No freezing\nLCEESC-1985e - Fish crow blood sample in DNA/RNA Shield. This one was properly frozen and cut with razor blade."
+  },
+  {
+    "objectID": "LN2_RNA_extraction_04232026.html#protocol-notes",
+    "href": "LN2_RNA_extraction_04232026.html#protocol-notes",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "Protocol Notes",
+    "text": "Protocol Notes\n\nFollowed the Tri-Reagent/Direct-zol RNA Isolation Protocol with modifications to test LN2 flash freezing\nAll surfaces and tubes were sprayed with RNAse-Zap prior to use and between samples. Forceps were sterilized with 10% bleach solution and then RNAse-zap between samples.\nWhile sample was still almost entirely frozen, used needle-tip forceps to remove sample from tube and placed on RNAse-free parafilm.\n\nNote: parafilm is not a good surface for doing this. Became very brittle and cracked from LN2 exposure. Possible that small fragments of parafilm made it into tubes for homogenization.\nNote: LC-EESC-1985e sample broke during removal with forceps. Conical bottom tubes (as oppsed to more wide-bottomed tubes) are difficult to remove entire sample from. Proceeded only with section that was broken off form conical bottom, as this was still a large volume of sample.\n\nOnce sample was on parafilm, ~1mL of LN2 was poured over the sample up to 4 times to ensure sample was properly frozen.\n\nNote: For LC-EESC-1986e, only 1mL of LN2 total was used and this was not nearly enough.\n\nApproximately 30uL of RCKI 2A1 was cut from the frozen sample and placed in 1200uL of Tri-Reagent in a snap-lock tube with 1 metal bead. Remaineder of the sample was returned to the tube and placed back at -80C\nApproximately 40uL of LC-EESC-1985e was cut from the frozen sample and placed in 1200uL of Tri-Reagent in a snap-lock tube with 1 metal bead. Remainder of the sample was returned to the tube and placed back at -80C\nUsed 100uL of RCKI 2A3, as the sample was fully lysed and could not be spun down. Unclear if sample was stored in DNA/RNA shield or RNAlater.\nBoth of the LC-EESC-1986e samples were placed in 1200uL total Tri-Reagent.\nTissuelyzer adapters were pre-cooled at -80C.\n\nNote: This is likely too cold for use with Tri-Reagent. Samples were freezing while on the Tissuelyzer instrument and the metal bead was being frozen in place.\n\nSwapped out chilled tube adapter for tissuelyzer with a room temperature one, but kept chilled lids to reduce overheating but prevent freezing.\nRCKI controls and LC-EESC-1986e tube 1 were well homogenized after 6 30 second runs at 20Hz.\n\nLC-EESC-1986e tube 2 and LC-EESC-1985e were given 2 additional runs to increase homogenization. LC-EESC-1985e continued to contain a large clot that would not homogenize. It is possible that trimming the sample does not make a large impact, or that more beads are necessary.\nLC-EESC-1985e was given a second metal bead for its final 30sec run on the tissue lyzer but this did not impact the size of the clot.\nBoth RCKI samples were still very pink after homogenization and likely did not contain a lot of blood."
+  },
+  {
+    "objectID": "LN2_RNA_extraction_04232026.html#concentrations",
+    "href": "LN2_RNA_extraction_04232026.html#concentrations",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "Concentrations",
+    "text": "Concentrations\n\n\n\nSample\nng/uL\n\n\n\n\nLC-EESC-1986e1\n23\n\n\nLC-EESC-1986e2\n38\n\n\nLC-EESC-1985e\n7.24\n\n\nRCKI 2A1\n2.08\n\n\nRCKI 2A3\n&lt;2"
+  },
+  {
+    "objectID": "index.html#ln2-rna-extraction",
+    "href": "index.html#ln2-rna-extraction",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "LN2 RNA extraction",
+    "text": "LN2 RNA extraction"
+  },
+  {
+    "objectID": "index.html#turkey-dna-extraction-03092026",
+    "href": "index.html#turkey-dna-extraction-03092026",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "Turkey DNA Extraction 03092026",
+    "text": "Turkey DNA Extraction 03092026"
+  },
+  {
+    "objectID": "Experiments.html",
+    "href": "Experiments.html",
+    "title": "Experiments",
+    "section": "",
+    "text": "All laboratory experiments performed by Niel Bauer. The most recent experiments are listed first.\nOSPR RNA extraction 05212026\nBLVU RNA Extraction 05142026\nBLVU RNA Extraction 05122026\nRNA Extraction w/ 5mm bead\nLN2 RNA extraction 04343036\nTurkey DNA Extraction 03092026\nRNA extraction practice"
+  },
+  {
+    "objectID": "index.html#rna-extraction-optimzation-with-5mm-bead",
+    "href": "index.html#rna-extraction-optimzation-with-5mm-bead",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "RNA extraction optimzation with 5mm bead",
+    "text": "RNA extraction optimzation with 5mm bead"
+  },
+  {
+    "objectID": "5mm_bead_RNA_extraction.html#goal",
+    "href": "5mm_bead_RNA_extraction.html#goal",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Goal",
+    "text": "Goal\nTest 5mm bead for homogenization of blood sample and Tri-Reagent. Add 4C incubation for 30 minutes w/ Tri-Reagent. Test homogenization between tissuelyzer and vortexer"
+  },
+  {
+    "objectID": "5mm_bead_RNA_extraction.html#samples",
+    "href": "5mm_bead_RNA_extraction.html#samples",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Samples",
+    "text": "Samples\n\n\n\nSpecies\nTissuelyzer\nTube label\nVortexer\nTube Label\n\n\n\n\nDCCO\nLC-EESC-2028e\nT1\nLC-EESC-2013e\nV1\n\n\n\n\nT2\n\nV2\n\n\n\n\nT3\n\n\n\n\nGRCA\nPA108 2I5\nTC1\nPA111 2I9\nVC1"
+  },
+  {
+    "objectID": "5mm_bead_RNA_extraction.html#notesobservations",
+    "href": "5mm_bead_RNA_extraction.html#notesobservations",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Notes/Observations",
+    "text": "Notes/Observations\n\nTC1 had 300uL of sample input b/c it didn’t have a clot and was entirely lysed. It was in some kind of alternative storage buffer (confirmed to be RNeasy Protect from Qiagen after experiment) that caused a white layer to form in the sample after the addition of Tri-Reagent.\nVC1 was centrifuged and blood pelleted nicely. Collected ~40uL of pellet as input for homogenization\nWas able to process all DCCO samples within 5 minutes. GRCA took longer due to issues w/ samples like separation and centrifugation.\n\nLag between samples could be reduced by allowing next sample to thaw in the rack while hand-thawing the sample I am about to work on. Tried this out for the last GRCA sample and it seemed to work pretty well.\n\nV1 and V2 are from a DCCO sample that was not shaken after collection. Clot was sitting on top of the DNA/RNA shield and not mixed at all. This may lead to a low yield?\nT1 and T2 were incubated at 4C for 45 minutes total due to lag in sample processing. I don’t believe this will impact the output of samples.\nAll samples appeared to homogenize well! Tissuelyzer and vortexer did not seem to produce significantly different results.\n\nHomogenized samples contained only small clots/stringy bits we see in other well homogenized samples."
+  },
+  {
+    "objectID": "5mm_bead_RNA_extraction.html#concentrations",
+    "href": "5mm_bead_RNA_extraction.html#concentrations",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Concentrations",
+    "text": "Concentrations\n\n\n\nSample\nConcentration (ng/u)\n\n\n\n\nT1\n45.3\n\n\nT2\n44.2\n\n\nT3\n21.6\n\n\nTC1\n&lt;5\n\n\nV1\n81.4\n\n\nV2\n123\n\n\nVC1\n67.5"
+  },
+  {
+    "objectID": "5mm_bead_RNA_extraction.html#conclusions",
+    "href": "5mm_bead_RNA_extraction.html#conclusions",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Conclusions",
+    "text": "Conclusions\n\n5mm bead works well for homogenization in both methods\nFocus on clots for RNA extractions, no need to worry about lysed supernatent\nI think the difference between the T1-3 samples and V1&2 were due to input volume rather than homogenization method."
+  },
+  {
+    "objectID": "index.html#blvu-rna-extraction-05122026",
+    "href": "index.html#blvu-rna-extraction-05122026",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "BLVU RNA extraction 05122026",
+    "text": "BLVU RNA extraction 05122026"
+  },
+  {
+    "objectID": "5mm_bead_RNA_extraction.html#protocol-notesobservations",
+    "href": "5mm_bead_RNA_extraction.html#protocol-notesobservations",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Protocol Notes/Observations",
+    "text": "Protocol Notes/Observations\nFollowed lab protocol for RNA extractions\n\nTC1 had 300uL of sample input b/c it didn’t have a clot and was entirely lysed. It was in some kind of alternative storage buffer (confirmed to be RNeasy Protect from Qiagen after experiment) that caused a white layer to form in the sample after the addition of Tri-Reagent.\nVC1 was centrifuged and blood pelleted nicely. Collected ~40uL of pellet as input for homogenization\nWas able to process all DCCO samples within 5 minutes. GRCA took longer due to issues w/ samples like separation and centrifugation.\n\nLag between samples could be reduced by allowing next sample to thaw in the rack while hand-thawing the sample I am about to work on. Tried this out for the last GRCA sample and it seemed to work pretty well.\n\nV1 and V2 are from a DCCO sample that was not shaken after collection. Clot was sitting on top of the DNA/RNA shield and not mixed at all. This may lead to a low yield?\nT1 and T2 were incubated at 4C for 45 minutes total due to lag in sample processing. I don’t believe this will impact the output of samples.\nAll samples appeared to homogenize well! Tissuelyzer and vortexer did not seem to produce significantly different results.\n\nHomogenized samples contained only small clots/stringy bits we see in other well homogenized samples."
+  },
+  {
+    "objectID": "BLVU_RNAext_05122026.html#samples",
+    "href": "BLVU_RNAext_05122026.html#samples",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Samples:",
+    "text": "Samples:\nLC-EESC-1428\n\nSplit into 1428.1, 1428.2, 1428.3\n\nLC-EESC-2091\n\nSplit into 2091.1, 2091.2, 2091.3\n\nLC-EESC-1426\n\nSplit into 1426.1, 1426.2"
+  },
+  {
+    "objectID": "BLVU_RNAext_05122026.html#protocolnotes",
+    "href": "BLVU_RNAext_05122026.html#protocolnotes",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Protocol/Notes",
+    "text": "Protocol/Notes\n\nFollowed updated protocol for RNA extraction from clotted avian blood: RNA Extraction Protocol\n1426 was not shaken after blood collection. Clot was floating on top of DNA/RNA shield w/ no lysis\n2091 had a large, solid clot, as if the sample wasn’t mixed. Maybe wasn’t mixed well enough? Clot was at the top of the tube but shield showed that there had been some lysis. Weird clot texture as well, like agarose.\nTook 8-10 minutes to process all samples to 4C incubation step. Biggest delays were form adding extra tubes for 1428 and 2091. I had all of the materials available, I just had to combine tubes+bead+tri-reagent and label them. Hard to gauge up front how many tubes you might need, three might be standard for larger birds.\n\nEstimated clot volumes and aqueous phase volume\n\n\nSample name\nEstimated clot volume (uL)\nAqueous phase volume (uL)\n\n\n\n\n1428.1\n200\n750\n\n\n1428.2\n250\n750\n\n\n1428.3\n200\n650\n\n\n2091.1\n275\n500\n\n\n2091.2\n275\n400\n\n\n2091.3\n175\n500\n\n\n1426.1\n200\n500\n\n\n1426.2\n275\n550\n\n\n\n1428 homogenized beautifully. Other two still had sizable chunks of clot, though reduced in size from original input volume.\n\nDropped 1426.2 column on the ground after spin-down following DNase treatment."
+  },
+  {
+    "objectID": "BLVU_RNAext_05122026.html#concentrations-from-1ul-input",
+    "href": "BLVU_RNAext_05122026.html#concentrations-from-1ul-input",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Concentrations (from 1uL input)",
+    "text": "Concentrations (from 1uL input)\n\n\n\nSample name\nQubit concentration (ng/uL)\n\n\n\n\n1428.1\n85.4\n\n\n1428.2\n120\n\n\n1428.3\n98.2\n\n\n2091.1\n&lt;10\n\n\n2091.2\n&lt;10\n\n\n2091.3\n12.7\n\n\n1426.1\n23.4\n\n\n1426.2\n42.4"
+  },
+  {
+    "objectID": "BLVU_RNAext_05122026.html#conclusions",
+    "href": "BLVU_RNAext_05122026.html#conclusions",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nLow RNA concentrations from 2091 sample may be due just to poor homogenization. I tried to account for all that I could.\nI suspected initially that the low concentration was due to blood collection being from an hours-dead bird, but that sample is from a freshly euthanized bird."
+  },
+  {
+    "objectID": "BLVU_RNAext_05142026.html#samples",
+    "href": "BLVU_RNAext_05142026.html#samples",
+    "title": "cool",
+    "section": "Samples:",
+    "text": "Samples:\n\n\n\n\n\n\n\n\n\nBlood sample\nTube name\nClot volume (uL)\nAqueous phase volume (uL)\n\n\n\n\nLC-EESC-1421\n1421.1\n300\n850\n\n\n\n1421.2\n300\n700\n\n\nLC-EESC-2086\n2086.1\n350\n600\n\n\n\n2086.2\n350\n600\n\n\nLC-EESC-1425\n1425.1\n250\n850\n\n\n\n1425.2\n250\n850\n\n\nLC-EESC-2094\n2094.1\n300\n475\n\n\n\n2094.2\n200\n475\n\n\n\n\nAqueous phase for 2086 and 2094 tube had a yellow tinge."
+  },
+  {
+    "objectID": "BLVU_RNAext_05142026.html#protocolnotes",
+    "href": "BLVU_RNAext_05142026.html#protocolnotes",
+    "title": "cool",
+    "section": "Protocol/Notes",
+    "text": "Protocol/Notes\nRNA extraction from clotted blood\n\n2086 and 2094 had brittle clots that tore apart in the tube while using forceps to extract them.\n\nAbbey recommended doing an additional minute of homogenization for these samples.\nAlso cut these clots up into smaller pieces with the scissors prior to homogenization.\n\nHomogenized 2086 and 2094 for an additional 2 times, 30 seconds each at 20Hz. Still had a large-ish hard clump visible in some, though also many small fragments.\nPellets for 2086 and 2094 were less uniform after phase separation. 2094 more-so than 2086, though there was still the whitish protein layer separating the clot pellet from the aqueous phase. Was able to get aqueous phase off with no trouble."
+  },
+  {
+    "objectID": "BLVU_RNAext_05142026.html#qubit-concentrations-2ul-input",
+    "href": "BLVU_RNAext_05142026.html#qubit-concentrations-2ul-input",
+    "title": "cool",
+    "section": "Qubit Concentrations (2uL input)",
+    "text": "Qubit Concentrations (2uL input)\n\n\n\nDate\nTube\nConcentration (ng/uL)\n\n\n\n\n5/14/2026\n1421.1\n&lt;5\n\n\n\n1421.2\n&lt;5\n\n\n\n2086.1\n&lt;5\n\n\n\n2086.2\n&lt;5\n\n\n\n1425.1\n&lt;5\n\n\n\n1425.2\n&lt;5\n\n\n\n2094.1\n&lt;5\n\n\n\n2094.2\n&lt;5\n\n\n5/15/2026\n1421.1\n&lt;5\n\n\n\n1421.2\n7.74\n\n\n\n2086.1\n&lt;5\n\n\n\n2086.2\n&lt;5\n\n\n\n1425.1\n5.23\n\n\n\n1425.2\n&lt;5\n\n\n\n2094.1\n&lt;5\n\n\n\n2094.2\n&lt;5\n\n\n\n\nUnsure why concentrations are so low after extraction across all samples. Some kind of contamination?"
+  },
+  {
+    "objectID": "BLVU_RNAext_05142026.html#section",
+    "href": "BLVU_RNAext_05142026.html#section",
+    "title": "cool",
+    "section": "05/15/2026",
+    "text": "05/15/2026\n\nAfter comparing with Abbey, who did extractions the same day, it is possible that DNase solution is contaminated? I suspended fresh DNase with the remaining nuclease-free water from the free zymo kit we have been using until earlier this week and used that along with new DNA digestion buffer from the new kit we have been using to do the DNA digestion step. Abbey did not perform this step yesterday, and had high yields across all samples."
+  },
+  {
+    "objectID": "index.html#blvu-rna-extraction-05142026",
+    "href": "index.html#blvu-rna-extraction-05142026",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "BLVU RNA extraction 05142026",
+    "text": "BLVU RNA extraction 05142026"
+  },
+  {
+    "objectID": "index.html#ospr-rna-extraction-05212026",
+    "href": "index.html#ospr-rna-extraction-05212026",
+    "title": "Niel Bauer Lab Notebook",
+    "section": "OSPR RNA extraction 05212026",
+    "text": "OSPR RNA extraction 05212026"
+  },
+  {
+    "objectID": "ELN_entries/RNA_extraction_practice.html",
+    "href": "ELN_entries/RNA_extraction_practice.html",
+    "title": "RNA Extraction Training",
+    "section": "",
+    "text": "Methods used for Practicing RNA extractions on 2/23/2026. Followed the Tri-Reagent/Direct-zol RNA Isolation Protocol protocol with some modifications. This protocol has been copied here and has been modified to include a Proteinase K digestion prior to Phase extraction"
+  },
+  {
+    "objectID": "ELN_entries/RNA_extraction_practice.html#summary",
+    "href": "ELN_entries/RNA_extraction_practice.html#summary",
+    "title": "RNA Extraction Training",
+    "section": "",
+    "text": "Methods used for Practicing RNA extractions on 2/23/2026. Followed the Tri-Reagent/Direct-zol RNA Isolation Protocol protocol with some modifications. This protocol has been copied here and has been modified to include a Proteinase K digestion prior to Phase extraction"
+  },
+  {
+    "objectID": "ELN_entries/RNA_extraction_practice.html#before-starting",
+    "href": "ELN_entries/RNA_extraction_practice.html#before-starting",
+    "title": "RNA Extraction Training",
+    "section": "Before starting:",
+    "text": "Before starting:\n\nClean work area\nGather all supplies\nSet centrifuge to 4 °C\nWipe tools, equipment, and fume hood work space with RNase Away or similar product\nGrab cold bead/ice bucket\nAliquot required amount of 1-Bromo-3-chloropropane (100 μl per sample and hold on ice)\nSet heat block to 55 °C\n\n\nSupplies:\n\nBucket of ice or cold beads\nTri Reagent: 1ml per sample (Tri Reagent and Trizol are interchangeable, except that 1-Bromo-3-chloropropane or Chloroform may be used with Tri Reagent while only Chloroform is compatible with Trizol. Chloroform is more toxic and volatile then 1-Bromo-3-chloropropane)\n1-Bromo-3-chloropropane as the phase separation agent: 100 ul per sample (Chloroform if used is 200 ul per sample)\nRNA free tubes 1.7 or 2.0 ml for Tri-Reagent phase seperation (for final elution and quality control aliquots)\nDirect-zol RNA Miniprep Plus contents (Zymo Research, Irvine, CA, USA, Cat# R2070 or R2071 supplied with Tri-Reagent)\n3-5 mm steel beads (autoclave and clean with RNase Away) or power homogenizer\nRNAase Away or similar product\n100% Ethanol\nAccess to a fume hood, Tri Reagent and 1-Bromo-3-chloropropane should be handeled in a fume hood\n\n\n\nDisposal guidelines:\n\nTri-Reagent, 1-Bromo-3-chloropropane, and Directzol RNA Pre wash buffer are toxic and must not go in the trash or down the drain.\nPour all such waste into appropriate “biohazard container” and follow appropriate local hazardous waste disposal guidelines.\n\n\nSample Preparation and Phase Separation\n\nFor whole blood sample preparation:\n\nAdded 400uL of Protiennase K Digestion Buffer from the Zymo Quick RNA Miniprep plus kit R1057T and 20uL of Protienase K from the same kit and incubated for 1 hour at 55°C\nFollowing incubation, tubes were centrifuged 2x for 1 minute at 8,000xg and again at 10,000xg for 2 minutes. No pelleting was observed, I wasn’t supposed to spin the tubes.\nThe contents of each tube was transfered to a 2mL Eppendorf Sure-lok tube containing 1 metal bead and 920uL Tri-Reagent. Tri-Reagent should be 1:1 with sample volume.\nTubes were vortexed for 10 minutes to homogenize.\n\n\nBelow Phase separtion steps adapted from Tri Reagent Protocol https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2F9738M_D.pdf\n\nPhase Separation:\n\nAdd 100 μl cold 1-Bromo-3-chloropropane (or 200 μl chloroform), shake vigorously for 20 seconds, then incubate at room temperature 10-15 minutes.\n\nNote: Briefly forgot the room temperature incubation step and centrifuged for 30 seconds before remembering.\n\nOn the cold centrifuge spin at 4°C for 30-60 minutes at 12,000 x g (or max speed).\nCheck phase separation: 50-60% of the volume should be clear aqueous phase. If separation is poor, add an additional 100 μl 1-Bromo-3-chloropropane (or 200 μl chloroform) and repeat shake-incubate-spin step. Centrifugation separates the mixture into 3 phases: a colorless upper aqueous phase containing total RNA, an interphase containing DNA, and the red organic phase containing proteins.\nCarefully collect up to 500 μl of the aqueous phase, making sure not to disturb interphase or lower organic phase, and place in clean tube.\n\nThere was a significant volume of the aqueous phase in each tube, approx. 1mL each. I split this into two tubes for each sample, sub labeling the tubes with a decimal (1.1, 1.2, etc).\n\n\n\nBelow taken from Zymo Directzol Miniprep Protocol Page # 7 https://files.zymoresearch.com/protocols/_r2070t_r2070_r2071_r2072_r2073_direct-zol_rna_miniprep_plus_kit.pdf\n\n\nRNA Purification\nAll centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds unless specified otherwise.\n\nAdd an equal volume ethanol (95%-100) to aqueous phase collected (500uL).\nTransfer the mixture into a Zymor-Spin IIICG Column in a collection tube and centrifuge. Transfer the column into a new collection tube and discard the flow-through.\n\nRepeated this step for each tube to run teh whole aqueous phase (e.g. 1.1, 1.2) through one column to consolidate split samples back into one.\n\nRecommended: DNase I treatment (in-column)\n\nAdd 400uL RNA Wash Buffer to the column and centrifuge.\nIn an RNase-free tube, add 5uL DNase I (6U/uL), 75uL DNA Digestion Buffer and mix. Add the mix directly to the column matrix.\nIncubate at room temperature (20-30°C) for 15 minutes. Proceed to step 4.\n\nAdd 400uL Direct-zol RNA PreWash to the column and centrifuge. Discard the flow-through and repeat this step.\n\nRepeated a third wash with 700uL of RNA PreWash because I misread the protocol.\n\nAdd 700uL RNA Wash Buffer to the column and centrifuge for 2 minutes to ensure complete removal of the wash buffer. Transfer the column carefully into an RNase-free tube.\nTo elute RNA, add 100 or 50uL (for highly concentrated RNA) of DNase/RNase-free Water directly to the column matrix and centrifuge.\nAliquot 2.5uL of RNA for quantification into strip tubes. Use 1uL for Qubit, 1uL for Bioanalyzer. The remaining 0.5uL accounts for pipetting error. Store RNA at -80°C."
+  },
+  {
+    "objectID": "ELN_entries/RNA_extraction_practice.html#rna-quantification-by-qubit",
+    "href": "ELN_entries/RNA_extraction_practice.html#rna-quantification-by-qubit",
+    "title": "RNA Extraction Training",
+    "section": "RNA Quantification by Qubit",
+    "text": "RNA Quantification by Qubit\n\n\n\nSample\nConcentration (ng/uL)\n\n\n\n\nPA141\nOut of Range (&lt;10)\n\n\nNT060\n18.7\n\n\nNT061\nOut of Range (&lt;10)"
+  },
+  {
+    "objectID": "ELN_entries/Turkey_DNA_extraction_03092026.html",
+    "href": "ELN_entries/Turkey_DNA_extraction_03092026.html",
+    "title": "Turkey DNA extraction",
+    "section": "",
+    "text": "Test 3 hour and overnight ProteinaseK digestion on gDNA extraction from RI turkey samples."
+  },
+  {
+    "objectID": "ELN_entries/Turkey_DNA_extraction_03092026.html#goal",
+    "href": "ELN_entries/Turkey_DNA_extraction_03092026.html#goal",
+    "title": "Turkey DNA extraction",
+    "section": "",
+    "text": "Test 3 hour and overnight ProteinaseK digestion on gDNA extraction from RI turkey samples."
+  },
+  {
+    "objectID": "ELN_entries/Turkey_DNA_extraction_03092026.html#section",
+    "href": "ELN_entries/Turkey_DNA_extraction_03092026.html#section",
+    "title": "Turkey DNA extraction",
+    "section": "03-09-2026",
+    "text": "03-09-2026\nSamples used:\n\n\n\n3 Hour digestion\nOvernight digestion\n\n\n\n\nRDM007\nRDM010\n\n\nRDM008\nRDM011\n\n\nRDM009\nRDM012\n\n\n\nFollowed gDNA extraction protocol with any changes or observations noted below.\n\nSince no wide-aperature 1000uL pipette tips were available, I found that tapping the tip against the bottom of the tube while drawing up sample helped me gather the full 200uL despite the viscosity of the sample.\nCentrifuged samples 7 and 9 a second time on step 5 as some sample was still retained in the column after the first spin.\nCentrifuged all 3 hour samples a second time after adding the Pre-Wash buffer as some was still retained in the column."
+  },
+  {
+    "objectID": "ELN_entries/Turkey_DNA_extraction_03092026.html#section-1",
+    "href": "ELN_entries/Turkey_DNA_extraction_03092026.html#section-1",
+    "title": "Turkey DNA extraction",
+    "section": "03-10-2026",
+    "text": "03-10-2026\n\nOvernight incubation was a total of 14 hours.\nPlaced a tube rack on top of the tubes during the overnight incubation to ensure that the caps did not pop open from pressure build up.\nCentrifuged all overnight samples a second time on step 5 as some sample was retained in the column."
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05122026.html#samples",
+    "href": "ELN_entries/BLVU_RNAext_05122026.html#samples",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Samples:",
+    "text": "Samples:\nLC-EESC-1428\n\nSplit into 1428.1, 1428.2, 1428.3\n\nLC-EESC-2091\n\nSplit into 2091.1, 2091.2, 2091.3\n\nLC-EESC-1426\n\nSplit into 1426.1, 1426.2"
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05122026.html#protocolnotes",
+    "href": "ELN_entries/BLVU_RNAext_05122026.html#protocolnotes",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Protocol/Notes",
+    "text": "Protocol/Notes\n\nFollowed updated protocol for RNA extraction from clotted avian blood: RNA Extraction Protocol\n1426 was not shaken after blood collection. Clot was floating on top of DNA/RNA shield w/ no lysis\n2091 had a large, solid clot, as if the sample wasn’t mixed. Maybe wasn’t mixed well enough? Clot was at the top of the tube but shield showed that there had been some lysis. Weird clot texture as well, like agarose.\nTook 8-10 minutes to process all samples to 4C incubation step. Biggest delays were form adding extra tubes for 1428 and 2091. I had all of the materials available, I just had to combine tubes+bead+tri-reagent and label them. Hard to gauge up front how many tubes you might need, three might be standard for larger birds.\n\nEstimated clot volumes and aqueous phase volume\n\n\nSample name\nEstimated clot volume (uL)\nAqueous phase volume (uL)\n\n\n\n\n1428.1\n200\n750\n\n\n1428.2\n250\n750\n\n\n1428.3\n200\n650\n\n\n2091.1\n275\n500\n\n\n2091.2\n275\n400\n\n\n2091.3\n175\n500\n\n\n1426.1\n200\n500\n\n\n1426.2\n275\n550\n\n\n\n1428 homogenized beautifully. Other two still had sizable chunks of clot, though reduced in size from original input volume.\n\nDropped 1426.2 column on the ground after spin-down following DNase treatment."
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05122026.html#concentrations-from-1ul-input",
+    "href": "ELN_entries/BLVU_RNAext_05122026.html#concentrations-from-1ul-input",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Concentrations (from 1uL input)",
+    "text": "Concentrations (from 1uL input)\n\n\n\nSample name\nQubit concentration (ng/uL)\n\n\n\n\n1428.1\n85.4\n\n\n1428.2\n120\n\n\n1428.3\n98.2\n\n\n2091.1\n&lt;10\n\n\n2091.2\n&lt;10\n\n\n2091.3\n12.7\n\n\n1426.1\n23.4\n\n\n1426.2\n42.4"
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05122026.html#conclusions",
+    "href": "ELN_entries/BLVU_RNAext_05122026.html#conclusions",
+    "title": "Vulture_RNA_Extraction_05122026",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nLow RNA concentrations from 2091 sample may be due just to poor homogenization. I tried to account for all that I could.\nI suspected initially that the low concentration was due to blood collection being from an hours-dead bird, but that sample is from a freshly euthanized bird."
+  },
+  {
+    "objectID": "ELN_entries/5mm_bead_RNA_extraction.html#goal",
+    "href": "ELN_entries/5mm_bead_RNA_extraction.html#goal",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Goal",
+    "text": "Goal\nTest 5mm bead for homogenization of blood sample and Tri-Reagent. Add 4C incubation for 30 minutes w/ Tri-Reagent. Test homogenization between tissuelyzer and vortexer"
+  },
+  {
+    "objectID": "ELN_entries/5mm_bead_RNA_extraction.html#samples",
+    "href": "ELN_entries/5mm_bead_RNA_extraction.html#samples",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Samples",
+    "text": "Samples\n\n\n\nSpecies\nTissuelyzer\nTube label\nVortexer\nTube Label\n\n\n\n\nDCCO\nLC-EESC-2028e\nT1\nLC-EESC-2013e\nV1\n\n\n\n\nT2\n\nV2\n\n\n\n\nT3\n\n\n\n\nGRCA\nPA108 2I5\nTC1\nPA111 2I9\nVC1"
+  },
+  {
+    "objectID": "ELN_entries/5mm_bead_RNA_extraction.html#protocol-notesobservations",
+    "href": "ELN_entries/5mm_bead_RNA_extraction.html#protocol-notesobservations",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Protocol Notes/Observations",
+    "text": "Protocol Notes/Observations\nFollowed lab protocol for RNA extractions\n\nTC1 had 300uL of sample input b/c it didn’t have a clot and was entirely lysed. It was in some kind of alternative storage buffer (confirmed to be RNeasy Protect from Qiagen after experiment) that caused a white layer to form in the sample after the addition of Tri-Reagent.\nVC1 was centrifuged and blood pelleted nicely. Collected ~40uL of pellet as input for homogenization\nWas able to process all DCCO samples within 5 minutes. GRCA took longer due to issues w/ samples like separation and centrifugation.\n\nLag between samples could be reduced by allowing next sample to thaw in the rack while hand-thawing the sample I am about to work on. Tried this out for the last GRCA sample and it seemed to work pretty well.\n\nV1 and V2 are from a DCCO sample that was not shaken after collection. Clot was sitting on top of the DNA/RNA shield and not mixed at all. This may lead to a low yield?\nT1 and T2 were incubated at 4C for 45 minutes total due to lag in sample processing. I don’t believe this will impact the output of samples.\nAll samples appeared to homogenize well! Tissuelyzer and vortexer did not seem to produce significantly different results.\n\nHomogenized samples contained only small clots/stringy bits we see in other well homogenized samples."
+  },
+  {
+    "objectID": "ELN_entries/5mm_bead_RNA_extraction.html#concentrations",
+    "href": "ELN_entries/5mm_bead_RNA_extraction.html#concentrations",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Concentrations",
+    "text": "Concentrations\n\n\n\nSample\nConcentration (ng/u)\n\n\n\n\nT1\n45.3\n\n\nT2\n44.2\n\n\nT3\n21.6\n\n\nTC1\n&lt;5\n\n\nV1\n81.4\n\n\nV2\n123\n\n\nVC1\n67.5"
+  },
+  {
+    "objectID": "ELN_entries/5mm_bead_RNA_extraction.html#conclusions",
+    "href": "ELN_entries/5mm_bead_RNA_extraction.html#conclusions",
+    "title": "RNA extraction optimization with 5mm bead homogenization",
+    "section": "Conclusions",
+    "text": "Conclusions\n\n5mm bead works well for homogenization in both methods\nFocus on clots for RNA extractions, no need to worry about lysed supernatent\nI think the difference between the T1-3 samples and V1&2 were due to input volume rather than homogenization method."
+  },
+  {
+    "objectID": "ELN_entries/LN2_RNA_extraction_04232026.html",
+    "href": "ELN_entries/LN2_RNA_extraction_04232026.html",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "",
+    "text": "Test the use of liquid nitrogen to flash-freeze samples with large amount of blood and then cut with a razor blade. This was done to possibly help with homogenization and thus create a higher yield"
+  },
+  {
+    "objectID": "ELN_entries/LN2_RNA_extraction_04232026.html#goal",
+    "href": "ELN_entries/LN2_RNA_extraction_04232026.html#goal",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "",
+    "text": "Test the use of liquid nitrogen to flash-freeze samples with large amount of blood and then cut with a razor blade. This was done to possibly help with homogenization and thus create a higher yield"
+  },
+  {
+    "objectID": "ELN_entries/LN2_RNA_extraction_04232026.html#samples-used",
+    "href": "ELN_entries/LN2_RNA_extraction_04232026.html#samples-used",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "Samples used:",
+    "text": "Samples used:\n\nLC-EESC-1986e - Fish crow blood sample in DNA/RNA Shield (I think?).\n\nNote: Did not use enough LN2 to freeze sample. Used razor to cut up clot and split across 2 tubes\n\nRCKI 2A1 - LN2 cut control\nRCKI 2A3 - Normal RNA extraciton protocol control. No freezing\nLCEESC-1985e - Fish crow blood sample in DNA/RNA Shield. This one was properly frozen and cut with razor blade."
+  },
+  {
+    "objectID": "ELN_entries/LN2_RNA_extraction_04232026.html#protocol-notes",
+    "href": "ELN_entries/LN2_RNA_extraction_04232026.html#protocol-notes",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "Protocol Notes",
+    "text": "Protocol Notes\n\nFollowed the Tri-Reagent/Direct-zol RNA Isolation Protocol with modifications to test LN2 flash freezing\nAll surfaces and tubes were sprayed with RNAse-Zap prior to use and between samples. Forceps were sterilized with 10% bleach solution and then RNAse-zap between samples.\nWhile sample was still almost entirely frozen, used needle-tip forceps to remove sample from tube and placed on RNAse-free parafilm.\n\nNote: parafilm is not a good surface for doing this. Became very brittle and cracked from LN2 exposure. Possible that small fragments of parafilm made it into tubes for homogenization.\nNote: LC-EESC-1985e sample broke during removal with forceps. Conical bottom tubes (as oppsed to more wide-bottomed tubes) are difficult to remove entire sample from. Proceeded only with section that was broken off form conical bottom, as this was still a large volume of sample.\n\nOnce sample was on parafilm, ~1mL of LN2 was poured over the sample up to 4 times to ensure sample was properly frozen.\n\nNote: For LC-EESC-1986e, only 1mL of LN2 total was used and this was not nearly enough.\n\nApproximately 30uL of RCKI 2A1 was cut from the frozen sample and placed in 1200uL of Tri-Reagent in a snap-lock tube with 1 metal bead. Remaineder of the sample was returned to the tube and placed back at -80C\nApproximately 40uL of LC-EESC-1985e was cut from the frozen sample and placed in 1200uL of Tri-Reagent in a snap-lock tube with 1 metal bead. Remainder of the sample was returned to the tube and placed back at -80C\nUsed 100uL of RCKI 2A3, as the sample was fully lysed and could not be spun down. Unclear if sample was stored in DNA/RNA shield or RNAlater.\nBoth of the LC-EESC-1986e samples were placed in 1200uL total Tri-Reagent.\nTissuelyzer adapters were pre-cooled at -80C.\n\nNote: This is likely too cold for use with Tri-Reagent. Samples were freezing while on the Tissuelyzer instrument and the metal bead was being frozen in place.\n\nSwapped out chilled tube adapter for tissuelyzer with a room temperature one, but kept chilled lids to reduce overheating but prevent freezing.\nRCKI controls and LC-EESC-1986e tube 1 were well homogenized after 6 30 second runs at 20Hz.\n\nLC-EESC-1986e tube 2 and LC-EESC-1985e were given 2 additional runs to increase homogenization. LC-EESC-1985e continued to contain a large clot that would not homogenize. It is possible that trimming the sample does not make a large impact, or that more beads are necessary.\nLC-EESC-1985e was given a second metal bead for its final 30sec run on the tissue lyzer but this did not impact the size of the clot.\nBoth RCKI samples were still very pink after homogenization and likely did not contain a lot of blood."
+  },
+  {
+    "objectID": "ELN_entries/LN2_RNA_extraction_04232026.html#concentrations",
+    "href": "ELN_entries/LN2_RNA_extraction_04232026.html#concentrations",
+    "title": "LN2 RNA extraction 04232026",
+    "section": "Concentrations",
+    "text": "Concentrations\n\n\n\nSample\nng/uL\n\n\n\n\nLC-EESC-1986e1\n23\n\n\nLC-EESC-1986e2\n38\n\n\nLC-EESC-1985e\n7.24\n\n\nRCKI 2A1\n2.08\n\n\nRCKI 2A3\n&lt;2"
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05142026.html#samples",
+    "href": "ELN_entries/BLVU_RNAext_05142026.html#samples",
+    "title": "cool",
+    "section": "Samples:",
+    "text": "Samples:\n\n\n\n\n\n\n\n\n\nBlood sample\nTube name\nClot volume (uL)\nAqueous phase volume (uL)\n\n\n\n\nLC-EESC-1421\n1421.1\n300\n850\n\n\n\n1421.2\n300\n700\n\n\nLC-EESC-2086\n2086.1\n350\n600\n\n\n\n2086.2\n350\n600\n\n\nLC-EESC-1425\n1425.1\n250\n850\n\n\n\n1425.2\n250\n850\n\n\nLC-EESC-2094\n2094.1\n300\n475\n\n\n\n2094.2\n200\n475\n\n\n\n\nAqueous phase for 2086 and 2094 tube had a yellow tinge."
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05142026.html#protocolnotes",
+    "href": "ELN_entries/BLVU_RNAext_05142026.html#protocolnotes",
+    "title": "cool",
+    "section": "Protocol/Notes",
+    "text": "Protocol/Notes\nRNA extraction from clotted blood\n\n2086 and 2094 had brittle clots that tore apart in the tube while using forceps to extract them.\n\nAbbey recommended doing an additional minute of homogenization for these samples.\nAlso cut these clots up into smaller pieces with the scissors prior to homogenization.\n\nHomogenized 2086 and 2094 for an additional 2 times, 30 seconds each at 20Hz. Still had a large-ish hard clump visible in some, though also many small fragments.\nPellets for 2086 and 2094 were less uniform after phase separation. 2094 more-so than 2086, though there was still the whitish protein layer separating the clot pellet from the aqueous phase. Was able to get aqueous phase off with no trouble."
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05142026.html#qubit-concentrations-2ul-input",
+    "href": "ELN_entries/BLVU_RNAext_05142026.html#qubit-concentrations-2ul-input",
+    "title": "cool",
+    "section": "Qubit Concentrations (2uL input)",
+    "text": "Qubit Concentrations (2uL input)\n\n\n\nDate\nTube\nConcentration (ng/uL)\n\n\n\n\n5/14/2026\n1421.1\n&lt;5\n\n\n\n1421.2\n&lt;5\n\n\n\n2086.1\n&lt;5\n\n\n\n2086.2\n&lt;5\n\n\n\n1425.1\n&lt;5\n\n\n\n1425.2\n&lt;5\n\n\n\n2094.1\n&lt;5\n\n\n\n2094.2\n&lt;5\n\n\n5/15/2026\n1421.1\n&lt;5\n\n\n\n1421.2\n7.74\n\n\n\n2086.1\n&lt;5\n\n\n\n2086.2\n&lt;5\n\n\n\n1425.1\n5.23\n\n\n\n1425.2\n&lt;5\n\n\n\n2094.1\n&lt;5\n\n\n\n2094.2\n&lt;5\n\n\n\n\nUnsure why concentrations are so low after extraction across all samples. Some kind of contamination?"
+  },
+  {
+    "objectID": "ELN_entries/BLVU_RNAext_05142026.html#section",
+    "href": "ELN_entries/BLVU_RNAext_05142026.html#section",
+    "title": "cool",
+    "section": "05/15/2026",
+    "text": "05/15/2026\n\nAfter comparing with Abbey, who did extractions the same day, it is possible that DNase solution is contaminated? I suspended fresh DNase with the remaining nuclease-free water from the free zymo kit we have been using until earlier this week and used that along with new DNA digestion buffer from the new kit we have been using to do the DNA digestion step. Abbey did not perform this step yesterday, and had high yields across all samples."
+  },
+  {
+    "objectID": "ELN_entries/OSPR_extraction_05212026.html#samples",
+    "href": "ELN_entries/OSPR_extraction_05212026.html#samples",
+    "title": "OSPR_extraction_05212026",
+    "section": "Samples:",
+    "text": "Samples:\n\n\n\n\n\n\n\n\n\nSample tube\nTemp tube name\nAqueous vol collected (uL)\nQubit Concentration (ng/uL)\n\n\n\n\n24JH00047\n47.1\n710\n174\n\n\n\n47.2\n520\n110\n\n\n24JH00056\n56.1\n660\n412\n\n\n\n56.2\n655\n443\n\n\n24JH00038\n38.1\n640\n107\n\n\n\n38.2\n640\n65.5"
+  },
+  {
+    "objectID": "ELN_entries/OSPR_extraction_05212026.html#protocolnotes",
+    "href": "ELN_entries/OSPR_extraction_05212026.html#protocolnotes",
+    "title": "OSPR_extraction_05212026",
+    "section": "Protocol/Notes",
+    "text": "Protocol/Notes\n\nUsed standard RNA extraction protocol from blood clots.\nsamples 47 and 56 were not well shaken after collection. 47 more so, with the RNA/DNA shield not having any red tint to it.\nTook 4 minutes to process all samples to 4C incubation step\nRan samples 8x on the tissuelyzer instead of 6. Forgot to flip the tissuelyzer adapter after 3 intervals, swapped instead at 6. Samples looked well homogenized with the exception of 24JH00047 samples which I ran for a 9th interval. They looked well homogenized at that point. The lag in homogenization may have been due to me not rotating the adapter block.\nTreated samples with DNase resuspended by Abbey"
+  }
+]

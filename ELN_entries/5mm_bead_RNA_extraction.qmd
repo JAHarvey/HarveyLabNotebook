@@ -1,0 +1,58 @@
+---
+title: "RNA extraction optimization with 5mm bead homogenization"
+---
+
+## Date 5/5/2026
+
+## Goal
+
+Test 5mm bead for homogenization of blood sample and Tri-Reagent. Add 4C incubation for 30 minutes w/ Tri-Reagent. Test homogenization between tissuelyzer and vortexer
+
+## Samples
+
+| Species | Tissuelyzer   | Tube label | Vortexer      | Tube Label |
+|---------|---------------|------------|---------------|------------|
+| DCCO    | LC-EESC-2028e | T1         | LC-EESC-2013e | V1         |
+|         |               | T2         |               | V2         |
+|         |               | T3         |               |            |
+| GRCA    | PA108 2I5     | TC1        | PA111 2I9     | VC1        |
+
+## Protocol Notes/Observations
+
+Followed lab protocol for [RNA extractions](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd)
+
+- TC1 had 300uL of sample input b/c it didn't have a clot and was entirely lysed. It was in some kind of alternative storage buffer (confirmed to be RNeasy Protect from Qiagen after experiment) that caused a white layer to form in the sample after the addition of Tri-Reagent.
+
+- VC1 was centrifuged and blood pelleted nicely. Collected \~40uL of pellet as input for homogenization
+
+- Was able to process all DCCO samples within 5 minutes. GRCA took longer due to issues w/ samples like separation and centrifugation.
+
+  - Lag between samples could be reduced by allowing next sample to thaw in the rack while hand-thawing the sample I am about to work on. Tried this out for the last GRCA sample and it seemed to work pretty well.
+
+- V1 and V2 are from a DCCO sample that was not shaken after collection. Clot was sitting on top of the DNA/RNA shield and not mixed at all. This may lead to a low yield?
+
+- T1 and T2 were incubated at 4C for 45 minutes total due to lag in sample processing. I don't believe this will impact the output of samples.
+
+- All samples appeared to homogenize well! Tissuelyzer and vortexer did not seem to produce significantly different results.
+
+  - Homogenized samples contained only small clots/stringy bits we see in other well homogenized samples.
+
+## Concentrations
+
+| Sample | Concentration (ng/u) |
+|--------|----------------------|
+| T1     | 45.3                 |
+| T2     | 44.2                 |
+| T3     | 21.6                 |
+| TC1    | \<5                  |
+| V1     | 81.4                 |
+| V2     | 123                  |
+| VC1    | 67.5                 |
+
+## Conclusions
+
+- 5mm bead works well for homogenization in both methods
+
+- Focus on clots for RNA extractions, no need to worry about lysed supernatent
+
+- I think the difference between the T1-3 samples and V1&2 were due to input volume rather than homogenization method.
