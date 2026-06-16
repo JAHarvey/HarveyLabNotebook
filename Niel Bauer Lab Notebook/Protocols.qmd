@@ -1,9 +1,0 @@
----
-title: "Protocols"
----
-
-## Summary
-All standard laboratory protocols used in this lab Notebook and the Avian Disease Ecology Lab at University of Rhode Island. All links lead to file in github repository
-
--   [Tri-Reagent/Direct-zol RNA Isolation Protocol](https://github.com/JAHarvey/RNA-Blood-preservation-extraction/blob/main/RNA_Isolation_Protocol.mkd)
--   [gDNA Extraction Protocol](https://github.com/JAHarvey/HarveyLabNotebook/blob/Niel-Lab-Notebook/Niel%20Bauer%20Lab%20Notebook/DNA_extraction_protocol.qmd)
