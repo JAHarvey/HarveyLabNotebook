@@ -80,7 +80,3 @@ Weekly lab tasks:
 - [ ]  Extract RNA from MALL25 set
 - [ ]  Train X on Y
 - [ ]  Make tubes for SUSC26
-
-
-
-
