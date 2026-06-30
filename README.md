@@ -26,6 +26,7 @@
 
   * Table of Contents
 
+___
 
 
 ## Meeting Notes
@@ -35,6 +36,8 @@
 * Keep a running list of tasks/priorities [[Daily Notes]]
 
 * Daily to do list/goals
+
+___  
 
 ## Priorities List
 
@@ -54,11 +57,13 @@ Weekly lab tasks:
 - [ ] Find X boxes and add to inventory with shelf #
 - [ ] dentify items that need to be ordered
 
+___
 
 ## Projects
 
 * This section is adjustable. Discuss with mentor about how best to organize project notes depending on project.
 
+___
 
 ## Daily Notes Template
 
