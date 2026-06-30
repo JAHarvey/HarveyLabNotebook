@@ -18,7 +18,7 @@
 
 * Even if all you did that day was wash dishes, write it in your daily notes
 
-* ***And always write down the date!!***
+* ___And always write down the date!!___
 
 * After you've entered data into your lab notebook (hardcopy), always transcribe to corresponding ELN github
 
